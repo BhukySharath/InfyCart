@@ -51,7 +51,7 @@ InfyCart is a fully-fledged e-commerce application designed to streamline online
 
 
 ## Contact
- Name - [bhukyasharath2508@gmail.com](mailto:bhukyasharath2508@gmail.com)
+Sharath Bhukya - [bhukyasharath2508@gmail.com](mailto:bhukyasharath2508@gmail.com)
 
 Project Link: [https://github.com/BhukySharath/infycart](https://github.com/BhukySharath/infycart)
 
