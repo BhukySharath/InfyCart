@@ -11,7 +11,7 @@ InfyCart is a fully-fledged e-commerce application designed to streamline online
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/infycart.git
+    git clone https://github.com/BhukySharath/infycart.git
     ```
 2. Navigate to the project directory:
     ```sh
@@ -41,7 +41,7 @@ InfyCart is a fully-fledged e-commerce application designed to streamline online
 3. Explore the various functionalities such as adding items to the cart, managing the wish list, and placing orders.
 
 ## Features
-- **Authentication Suite**: Registration, login, logout, and email verification.
+- **Authentication Suite**: Registration, login, logout.
 - **Shopping Functionalities**: Add to cart, remove from cart, add to wish list, remove from the wish list, search, cancel an order, and update profile.
 - **Payment Gateways**: Integrated payment gateways for secure transactions and achieved with help of razorpay.
 - **Feedback**: Provide feedback on your purchases.
@@ -51,7 +51,7 @@ InfyCart is a fully-fledged e-commerce application designed to streamline online
 
 
 ## Contact
-Your Name - [bhukyasharath2508@gmail.com](mailto:bhukyasharath2508@gmail.com)
+ Name - [bhukyasharath2508@gmail.com](mailto:bhukyasharath2508@gmail.com)
 
 Project Link: [https://github.com/BhukySharath/infycart](https://github.com/BhukySharath/infycart)
 
